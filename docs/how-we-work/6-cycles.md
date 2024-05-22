@@ -24,7 +24,7 @@ Some projects are special and have no definitive deliverable (eg: Hiring). These
 ## Issues: Where the rubber meets the road 🏎️
 Issues are the catalysts to GTD. Describe a task with a clear, defined outcome. This could be a piece of code, design, document, or action to be taken.
 
-If it’s not a task, then it doesn’t belong in the issue tracker. It maybe a project and needs to be fleshed out.
+If it’s not a task, then it doesn’t belong in the issue tracker. It's maybe a project and needs to be fleshed out.
 
 **Everyone writes their own issues or you're assigned an issue, you get to decide how to execute it.**
 
